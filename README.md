@@ -7,7 +7,7 @@ Target:
 
 - 了解 Web 基础概念
 
-    Web 是基于 HTTP 超文本传输协议的动态交互式信息系统，通俗的说就是网站  [wiki](https://en.wikipedia.org/wiki/World_Wide_Web)  [百度百科-web](https://baike.baidu.com/item/web/150564?fr=aladdin) 
+    Web 是基于 HTTP 超文本传输协议的动态交互式信息系统，通俗的说就是网站  [wiki](https://en.wikipedia.org/wiki/World_Wide_Web)  [百度百科-web](https://baike.baidu.com/item/web/150564?fr=aladdin) [Web应用的本质](http://www.voidcn.com/article/p-gbarbuxe-ga.html)
 
 - 学习基本 Web 开发
 

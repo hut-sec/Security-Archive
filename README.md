@@ -13,7 +13,7 @@ Target:
 
     了解 html css javascript， 用php实现一个简易留言板
     
-    [wamp](http://www.jianshu.com/p/5f0e01b1ebce)集成软件搭建开发环境 然后百度+书籍+视频
+    [wamp](http://www.jianshu.com/p/5f0e01b1ebce)集成软件搭建开发环境 然后百度+书籍+视频
 
 - 熟悉 Web 经典漏洞类型
 

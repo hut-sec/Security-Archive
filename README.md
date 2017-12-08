@@ -16,4 +16,6 @@ Target:
     [wamp](http://www.jianshu.com/p/5f0e01b1ebce)集成软件搭建开发环境 然后百度+书籍+视频
 
 - 熟悉 Web 经典漏洞类型
-- 
+
+    [DVWA 渗透测试演练系统](http://www.freebuf.com/articles/web/123779.html)
+- To do

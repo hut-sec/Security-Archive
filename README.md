@@ -5,9 +5,9 @@ the right way to learn web security
 
 Target:
 
-- 掌握 Web 基础概念
+- 了解 Web 基础概念
 
-    HTTP 超文本传输协议
+    Web 是基于 HTTP 超文本传输协议的动态交互式信息系统，通俗的说就是网站 [百度百科-web](https://baike.baidu.com/item/web/150564?fr=aladdin) [wiki](https://en.wikipedia.org/wiki/World_Wide_Web)
 
 - 学习基本 Web 开发
 

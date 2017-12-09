@@ -17,6 +17,6 @@ Target:
 
 - 熟悉 Web 经典漏洞类型      （建议时间 15d-20d）
 
-    [DVWA 渗透测试演练系统](http://www.freebuf.com/articles/web/123779.html)
+    [DVWA 渗透测试演练系统](http://www.freebuf.com/articles/web/116437.html)
 
 - To do

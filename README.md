@@ -1,6 +1,6 @@
-# Web-Security-Learning
-the right way to learn web security
+# web安全相关资料收录
 
+- 初步学习路线
 **Stage1** -
 
 Target:
@@ -20,3 +20,6 @@ Target:
     [DVWA 渗透测试演练系统](http://www.freebuf.com/articles/web/116437.html)
 
 - To do
+
+# Reference
+- (Web-Security-Learning)[https://github.com/CHYbeta/Web-Security-Learning]

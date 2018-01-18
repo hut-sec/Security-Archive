@@ -1,7 +1,6 @@
 # web安全相关资料收录
 
 - 初步学习路线
-**Stage1** -
 
 Target:
 
@@ -22,4 +21,6 @@ Target:
 - To do
 
 # Reference
-- (Web-Security-Learning)[https://github.com/CHYbeta/Web-Security-Learning]
+- (Web-Security-Learning)[https://github.com/CHYbeta/Web-Security-Learning] （较好的web安全相关学习资源）
+- (CTF-All-In-One)[https://github.com/firmianay/CTF-All-In-One] （一本 CTF 领域的大杂烩指南）
+- (Awesome-Hacking)[https://github.com/Hack-with-Github/Awesome-Hacking] （非常全面的黑客技术清单）

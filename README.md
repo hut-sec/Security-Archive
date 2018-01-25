@@ -24,3 +24,4 @@ Target:
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) （较好的web安全相关学习资源）
 - [CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) （一本 CTF 领域的大杂烩指南）
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) （非常全面的黑客技术清单）
+- [渗透笔记分享](https://github.com/hut-sec/Web-Security-Archive/blob/master/渗透笔记分享.doc) （t00ls转载的渗透笔记）

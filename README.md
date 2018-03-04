@@ -18,9 +18,14 @@ Target:
 
     [DVWA 渗透测试演练系统](http://www.freebuf.com/articles/web/116437.html)
 
-- To do
+掌握了一定的基础知识后，便可开始动手练习
+
+可以通过打 ctf 来构建知识体系，熟练运用各种技术手段
+
+ctf 练习平台有很多，不妨挑一个较简单的开始：[实验吧](http://www.shiyanbar.com/ctf/practice)。
 
 # Reference
+- [ctf-wiki](https://ctf-wiki.github.io/ctf-wiki/)
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) （较好的web安全相关学习资源）
 - [CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) （一本 CTF 领域的大杂烩指南）
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) （非常全面的黑客技术清单）

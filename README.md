@@ -14,10 +14,10 @@
 ## Web
 - 掌握基础的漏洞类型 ：了解漏洞原理（sql注入、xss、csrf、文件上传）
 - 学习python的使用 ： 基础语法，以及一些常用库（requests、re）
-- 学习sql语句：掌握对数据的增（insert）删(delete)改(update)查(select),以及表的创建
-- 学习linux基础操作：
-	命令行中文件的移动、编辑、删除、修改权限、端口查看、进程查看  
-	自己搭建一个linux下的websever(apache/nignx + php + mysql)
+- 学习sql语句：掌握对数据的增（insert）删(delete)改(update)查(select),以及表的创建（create）
+- 学习linux基础操作：  
+&nbsp;&nbsp;命令行中文件的移动、编辑、删除、修改权限、端口查看、进程查看    
+&nbsp;&nbsp;自己搭建一个linux下的websever(apache/nignx + php + mysql)  
 - 了解实际渗透（视频资源链接：https://pan.baidu.com/s/1Vg38Fehuc27dIiKvytTXXg 密码：0em8） 
 - **前面学习完后有额外精力**的，学习MVC框架，尝试自己用php写一个小型mvc的web框架
 

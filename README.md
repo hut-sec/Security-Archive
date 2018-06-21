@@ -1,32 +1,34 @@
-# web安全相关资料收录
+# hut-sec 暑期养成记 
 
-## 初步学习路线
+## Target
+这学期大家学习了不少网络安全基础技能，以及一些ctf的相关知识  
+下学期开学之后会有一段时间高强度的ctf国际赛，请大家做好准备  
+  
+暑期的任务主要查漏补缺，以及完成一些前置技能的修炼，顺利的度过入门期  
+一下是一些小任务，Web和Bin的任务各不相同，根据自己方向选择  
+许多内容是已经掌握的就可以跳过，根据自身情况进行查漏补缺,Common类型是都要完成的  
 
-Target:
+## Common
+- 搭建一个自己的博客（推荐hexo）
 
-- 了解 Web 基础概念
+## Web
+- 掌握基础的漏洞类型 ：了解漏洞原理（sql注入、xss、csrf、文件上传）
+- 学习python的使用 ： 基础语法，以及一些常用库（requests、re）
+- 学习sql语句：掌握对数据的增（insert）删(delete)改(update)查(select),以及表的创建
+- 学习linux基础操作：
+	命令行中文件的移动、编辑、删除、修改权限、端口查看、进程查看  
+	自己搭建一个linux下的websever(apache/nignx + php + mysql)
+- 了解实际渗透（视频资源链接：https://pan.baidu.com/s/1Vg38Fehuc27dIiKvytTXXg 密码：0em8） 
+- **前面学习完后有额外精力**的，学习MVC框架，尝试自己用php写一个小型mvc的web框架
 
-    Web 是基于 HTTP 超文本传输协议的动态交互式信息系统，通俗的说就是网站  [wiki](https://en.wikipedia.org/wiki/World_Wide_Web)  [百度百科-web](https://baike.baidu.com/item/web/150564?fr=aladdin) [Web应用的本质](http://www.voidcn.com/article/p-gbarbuxe-ga.html)
 
-- 学习基本 Web 开发         （建议时间 10d-15d）
+## Bin
+pass
 
-    了解 html css javascript， 用php实现一个简易留言板
-    
-    [wamp](http://www.jianshu.com/p/5f0e01b1ebce) 集成软件搭建开发环境 然后百度+书籍+视频
 
-- 熟悉 Web 经典漏洞类型      （建议时间 15d-20d）
-
-    [DVWA 渗透测试演练系统](http://www.freebuf.com/articles/web/116437.html)
-
-掌握了一定的基础知识后，便可开始动手练习
-
-可以通过打 ctf 来构建知识体系，熟练运用各种技术手段
-
-ctf 练习平台有很多，不妨挑一个较简单的开始：[实验吧](http://www.shiyanbar.com/ctf/practice)。
 
 # Reference
-- [ctf-wiki](https://ctf-wiki.github.io/ctf-wiki/)
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) （较好的web安全相关学习资源）
 - [CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) （一本 CTF 领域的大杂烩指南）
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) （非常全面的黑客技术清单）
-- [渗透笔记分享](https://github.com/hut-sec/Web-Security-Archive/blob/master/%E6%B8%97%E9%80%8F%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB.docx?raw=true) （t00ls转载的渗透笔记）
+- [CTF-Wiki](https://ctf-wiki.github.io/ctf-wiki/) （CTF的入门简介）

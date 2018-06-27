@@ -24,9 +24,31 @@
 
 
 ## Bin
-pass
+**前置技能**：
+  - 掌握汇编基础：王爽汇编、逆向工程核心原理（可选）
 
+### Pwn
+  - 基础的调试、入门首选 [LiveOverFlow](http://liveoverflow.com/binary_hacking/) 或者 [bilibili搬运](https://www.bilibili.com/video/av18860370/) （原版可以自动翻译）
+  - 完成 [exploit-exercises protostar](https://exploit-exercises.com/protostar/) 优先独立完成，部分练习用时太长可以选择看writeup
+  - 学习 stack overflow：明白原理，完成例题 [基本ROP](htt)) 有限是ps://ctf-wiki.github.io/ctf-wiki/pwn/stackoverflow/basic_rop/)
+  - 继续完成 ctf-wiki 栈溢出部分
+  前面都完成的开始进阶
+  - [how2heap](https://github.com/shellphish/how2heap)
+  - [pwnable.tw](https://pwnable.tw/) [pwnable.kr](http://pwnable.kr/play.php)
+  - ctftime ...
 
+### Reverse
+  - 学习程序调试技能：逆向工程核心原理
+  - 可选学习教程 [reversingwithlena-tutroial](https://tuts4you.com/e107_plugins/download/download.php?action=view&id=2876) 一篇 简单的 crackme [An Intro to x86_64 Reverse Engineering](https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/)
+  之后就是不停的练习 [crackmes](https://github.com/crackmes/crackmes) 以及内功修炼：程序开发、操作系统、编译原理 ...
+  
+### 参考资料
+  - [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
+  - [Linux (x86) Exploit 开发系列教程](https://bbs.pediy.com/thread-217390.htm)
+  - windows平台： [Exploit writing tutorial part 1 : Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) [Part 1: Introduction to Exploit Development](https://www.fuzzysecurity.com/tutorials/expDev/1.html)
+  - [exploit入门级](http://martin.uy/blog/projects/reverse-engineering/)
+  - [一步一步学ROP x86](http://www.vuln.cn/6645)
+  - 论坛：看雪、吾爱、tuts4you
 
 # Reference
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) （较好的web安全相关学习资源）

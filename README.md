@@ -30,7 +30,7 @@
 ### Pwn
   - 基础的调试、入门首选 [LiveOverFlow](http://liveoverflow.com/binary_hacking/) 或者 [bilibili搬运](https://www.bilibili.com/video/av18860370/) （原版可以自动翻译）
   - 完成 [exploit-exercises protostar](https://exploit-exercises.com/protostar/) 优先独立完成，部分练习用时太长可以选择看writeup
-  - 学习 stack overflow：明白原理，完成例题 [基本ROP](htt)) 有限是ps://ctf-wiki.github.io/ctf-wiki/pwn/stackoverflow/basic_rop/)
+  - 学习 stack overflow：明白原理，完成例题 [基本ROP](https://ctf-wiki.github.io/ctf-wiki/pwn/stackoverflow/basic_rop/)
   - 继续完成 ctf-wiki 栈溢出部分
 
   前面都完成的开始进阶

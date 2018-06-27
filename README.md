@@ -34,8 +34,8 @@
   - 继续完成 ctf-wiki 栈溢出部分
   前面都完成的开始进阶
   - [how2heap](https://github.com/shellphish/how2heap)
-  - [pwnable.tw](https://pwnable.tw/) [pwnable.kr](http://pwnable.kr/play.php)
-  - ctftime ...
+  - [pwnable.tw](https://pwnable.tw/)、[pwnable.kr](http://pwnable.kr/play.php)
+  - CTFTime ...
 
 ### Reverse
   - 学习程序调试技能：逆向工程核心原理
@@ -45,7 +45,7 @@
 ### 参考资料
   - [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
   - [Linux (x86) Exploit 开发系列教程](https://bbs.pediy.com/thread-217390.htm)
-  - windows平台： [Exploit writing tutorial part 1 : Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) [Part 1: Introduction to Exploit Development](https://www.fuzzysecurity.com/tutorials/expDev/1.html)
+  - windows平台： [Exploit writing tutorial part 1 : Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)、[Part 1: Introduction to Exploit Development](https://www.fuzzysecurity.com/tutorials/expDev/1.html)
   - [exploit入门级](http://martin.uy/blog/projects/reverse-engineering/)
   - [一步一步学ROP x86](http://www.vuln.cn/6645)
   - 论坛：看雪、吾爱、tuts4you

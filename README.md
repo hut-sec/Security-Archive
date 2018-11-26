@@ -1,26 +1,32 @@
-# hut-sec 暑期养成记 
+# hut-sec 
 
-## Target
-这学期大家学习了不少网络安全基础技能，以及一些ctf的相关知识  
-下学期开学之后会有一段时间高强度的ctf国际赛，请大家做好准备  
-  
-暑期的任务主要查漏补缺，以及完成一些前置技能的修炼，顺利的度过入门期  
-一下是一些小任务，Web和Bin的任务各不相同，根据自己方向选择  
-许多内容是已经掌握的就可以跳过，根据自身情况进行查漏补缺,Common类型是都要完成的  
+## 前言
+目前比较主流的两个网络安全大方向，也是我们组主要的两个方向
 
-## Common
-- 搭建一个自己的博客（推荐hexo）
+ - Web安全
+ - 二进制安全
+
+简单的说 Web安全主要研究对象是运行的Web服务，偏向应用层。  
+二进制安全会更底层，对基础要求比较高。  
+
+可以自己通过搜索引擎了解一下这两个方向的相关知识。（信息搜集能力也是一个黑客的必要前提
+
+考虑到大部分人之前可能没有了解过，会给一段考虑选择的时间。前期可以两个都学，然后选一个适合自己的方向深入学习。
+
+**最迟**需要在**寒假结束前**给出明确的学习方向。
+
+以下是两个方向的学习计划。
 
 ## Web
-- 掌握基础的漏洞类型 ：了解漏洞原理（sql注入、xss、csrf、文件上传）
-- 学习python的使用 ： 基础语法，以及一些常用库（requests、re）
-- 学习sql语句：掌握对数据的增（insert）删(delete)改(update)查(select),以及表的创建（create）
-- 了解http协议（推荐《图解http》）
-- 学习linux基础操作：  
-&nbsp;&nbsp;命令行中文件的移动、编辑、删除、修改权限、端口查看、进程查看    
-&nbsp;&nbsp;自己搭建一个linux下的websever(apache/nignx + php + mysql)  
-- 了解实际渗透（视频资源链接：https://pan.baidu.com/s/1Vg38Fehuc27dIiKvytTXXg 密码：0em8） 
-- **前面学习完后有额外精力**的，学习MVC框架，尝试自己用php写一个小型mvc的web框架
+Web安全的基础是开发，需要知道网站是如何运作的，才能知道网站是如何被攻击的（know it then hack it
+
+- **了解 ** 静态网页基础 html 、css 、 javascript
+- **熟悉 ** 一门动态Web开发语言 —— PHP 
+- **了解** 基础数据库使用 —— MySQL的增删改查
+
+注意**了解**和**熟悉**的区别。
+
+最终的目的需要自己实现一个小型留言板的网站。
 
 
 ## Bin
@@ -43,7 +49,7 @@
   - 可选学习教程 [reversingwithlena-tutroial](https://tuts4you.com/e107_plugins/download/download.php?action=view&id=2876) 一篇 简单的 crackme [An Intro to x86_64 Reverse Engineering](https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/)
 
   之后就是不停的练习 [crackmes](https://github.com/crackmes/crackmes) 以及内功修炼：程序开发、操作系统、编译原理 ...
-  
+
 ### 参考资料
   - [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
   - [Linux (x86) Exploit 开发系列教程](https://bbs.pediy.com/thread-217390.htm)

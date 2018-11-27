@@ -32,33 +32,20 @@ Web安全的基础是开发，需要知道网站是如何运作的，才能知�
 ## Bin
 **前置技能**：
 
-  - 掌握汇编基础：王爽汇编、逆向工程核心原理（可选）
+  - 掌握汇编基础：Python、王爽《汇编语言》、虚拟机安装Ubuntu（建议版本16.4）、Linux基本操作、GDB调试、IDA调试（静态调试）（前期懂简单操作就行，后面根据视频以及使用手册再增加）
+  - 工具说明书：[GDB使用手册](https://blog.csdn.net/weiyuefei/article/details/72522973),IDA暂时还没找到，找到比较好的可以交流一波
 
 ### Pwn
-  - 基础的调试、入门首选 [LiveOverFlow](http://liveoverflow.com/binary_hacking/) 或者 [bilibili搬运](https://www.bilibili.com/video/av18860370/) （原版可以自动翻译）
-  - 完成 [exploit-exercises protostar](https://exploit-exercises.com/protostar/) 优先独立完成，部分练习用时太长可以选择看writeup
-  - 学习 stack overflow：明白原理，完成例题 [基本ROP](https://ctf-wiki.github.io/ctf-wiki/pwn/stackoverflow/basic_rop/)
-  - 继续完成 ctf-wiki 栈溢出部分
-
-  前面都完成的开始进阶
-  - [how2heap](https://github.com/shellphish/how2heap)
-  - [pwnable.tw](https://pwnable.tw/)、[pwnable.kr](http://pwnable.kr/play.php)
-  - CTFTime ...
-
+  - 基础的调试、入门首选 [LiveOverFlow](http://liveoverflow.com/binary_hacking/) （翻墙官网能自动翻译）
 ### Reverse
+  - 在前置技能完成后推荐找一个讲解ctf逆向题目的入门视频，一是了解ida基本的静态调试，二是增加兴趣
+  - 增加工具：虚拟机安装win7、吾爱破解Ollydug（动态调试）
   - 学习程序调试技能：逆向工程核心原理
-  - 可选学习教程 [reversingwithlena-tutroial](https://tuts4you.com/e107_plugins/download/download.php?action=view&id=2876) 一篇 简单的 crackme [An Intro to x86_64 Reverse Engineering](https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/)
-
-  之后就是不停的练习 [crackmes](https://github.com/crackmes/crackmes) 以及内功修炼：程序开发、操作系统、编译原理 ...
+ 
+ 后期学习计划我放在我的博客里面[snow146](https://snow146.github.io/),有什么问题可以看我和田仲立学长的博客[Muirelle](Muirelle.com)，也欢迎来提问
 
 ### 参考资料
-  - [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
-  - [Linux (x86) Exploit 开发系列教程](https://bbs.pediy.com/thread-217390.htm)
-  - windows平台： [Exploit writing tutorial part 1 : Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)、[Part 1: Introduction to Exploit Development](https://www.fuzzysecurity.com/tutorials/expDev/1.html)
-  - [exploit入门级](http://martin.uy/blog/projects/reverse-engineering/)
-  - [一步一步学ROP x86](http://www.vuln.cn/6645)
-  - 论坛：看雪、吾爱、tuts4you
-
+  - 论坛：看雪、吾爱、tuts4you**（逛论坛很重要，大佬，学习资料，工具，题解，不懂的问题都能找到）**
 # Reference
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) （较好的web安全相关学习资源）
 - [CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) （一本 CTF 领域的大杂烩指南）

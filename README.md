@@ -30,7 +30,7 @@ PHP和mysql的环境[PHPStudy](https://www.xp.cn/)，也可以自己在linux系�
 
  ### 二进制 
 
-二进制方向研究偏底层，对底层知识要求较高，前期学习枯燥，后期学习自闭，但是学好就是爷爷。二进制分为两个方向一个是pwn，另一个是逆向工程。具体两个是干什么，请自行查看[CTF-Wiki](![img](file:///D:\Temp\%W@GJ$ACOF(TYDYECOKVDYB.png)https://ctf-wiki.github.io/ctf-wiki/)
+二进制方向研究偏底层，对底层知识要求较高，前期学习枯燥，后期学习自闭，但是学好就是爷爷。二进制分为两个方向一个是pwn，另一个是逆向工程。具体两个是干什么，请自行查看[CTFWIKI](https://ctf-wiki.github.io/ctf-wiki/web/introduction-zh/)
 
 - 掌握汇编语言基本语法(随便给段代码能看懂就行，不要求深入，推荐书籍：《汇编语言》——王爽)
 - 理解堆栈运作方式，明确栈帧等基本概念，了解编译链接过程(推荐书籍：程序员的自我修养)
